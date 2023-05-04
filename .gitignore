@@ -1,3 +1,6 @@
+credentials.json
+myenv
+
 ### dotenv ###
 .env
 
